@@ -62,6 +62,5 @@ void loop() {
     // stop the tone playing:
     noTone(8);
 
-  // no need to repeat the melody.
      }
 }
